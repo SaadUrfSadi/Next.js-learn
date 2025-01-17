@@ -20,6 +20,7 @@ export default function Home() {
         </Link>
         <button onClick={()=> navigate("/login")}>go to login page</button>
         <button onClick={()=> navigate("/about")}>go to about page</button>
+        <Link href="/productlist">Go to product list page</Link>
       </main>
      
     </div>

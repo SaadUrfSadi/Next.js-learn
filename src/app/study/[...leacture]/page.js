@@ -5,7 +5,7 @@ export default function Leacture({params}){
         <>
         <div>
             <h1>{params.leacture[0]}</h1>
-            <p>{params.leacture[1]}</p>
+            <p>{params.leacture[0]}</p>
         </div>
         </>
     )
