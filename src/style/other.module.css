@@ -1,0 +1,19 @@
+.hello{
+    color: blueviolet;
+}
+.lfz{
+    color: rgb(126, 201, 28);
+    font-weight: 700;
+}
+.button{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 12px 14px;
+    color: white;
+    background: red;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    border-radius: 12px;
+    cursor: pointer;
+}
